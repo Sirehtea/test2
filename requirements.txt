@@ -1,0 +1,1 @@
+pip install ping3 beautifulsoup4 rich
